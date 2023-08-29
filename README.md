@@ -26,13 +26,13 @@ This repository contains two parts; the first, WeatherPy, is a python analysis o
 </br>
 <p>- Regression lines and equations were later calculated, reflecting the above relationships, with data split between Northern and Southern hemispheres. Plots can be seen in the ipynb file, however the results for each subgroup are as follows:</p> 
 </br>
-<p>- Latitude and Max Temp:  the r-value is -0.7061, indicating a strong negative relationship. For the Southern Hemisphere variables, the r-value is 0.7979, indicating a very strong positive relationship.</p> 
+<p>-<strong>Latitude and Max Temp:</strong>  the r-value is -0.6936, indicating a strong negative relationship. For the Southern Hemisphere variables, the r-value is 0.7396, indicating a strong positive relationship.</p> 
 </br>
-<p>- Latitude vs. Humidity: For the Northern Hemisphere variables, the r-value is -0.0154, indicating a very weak negative relationship. For the Southern Hemisphere variables, the r-value is 0.0402, indicating a very weak positive relationship.</p> 
+<p>- <strong>Latitude vs. Humidity:</strong> For the Northern Hemisphere variables, the r-value is -0.0246, indicating a very weak negative relationship. For the Southern Hemisphere variables, the r-value is 0.0754, indicating a very weak positive relationship.</p> 
 </br>
-<p>- Latitude vs. Cloudiness: For the Northern Hemisphere variables, the r-value is -0.0442, indicating a very weak negative relationship. For the Southern Hemisphere variables, the r-value is -0.0895, indicating a very weak negative relationship. </p> 
+<p>- <strong>Latitude vs. Cloudiness:</strong> For the Northern Hemisphere variables, the r-value is -0.1045, indicating a very weak negative relationship. For the Southern Hemisphere variables, the r-value is -8.5450, indicating a very weak negative relationship. </p> 
 </br>
-<p>- Latitude vs. Wind Speed: For the Northern Hemisphere variables, the r-value is 0.0077, indicating a very weak positive correlation. For the Southern Hemisphere variables, the r-value is -0.0921, indicating a weak/very weak negative correlation. </p>
+<p>-<strong> Latitude vs. Wind Speed:</strong> For the Northern Hemisphere variables, the r-value is -0.0991, indicating a very weak negative correlation. For the Southern Hemisphere variables, the r-value is -0.0142, indicating a weak/very weak negative correlation. </p>
 </br>
 <p>----------------------------------------------------------</p> 
 </br>
